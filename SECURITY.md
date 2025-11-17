@@ -1,0 +1,1 @@
+Valorizamos a segurança do PortfolioHUB. Se você encontrar uma vulnerabilidade, por favor, abra uma Issue no repositório com o título [Security] - Descrição Breve da Falha. Analisaremos e responderemos o mais rápido possível.
